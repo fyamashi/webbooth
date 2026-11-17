@@ -13,7 +13,7 @@ window.WEBBOOTH_CONFIG = {
   backend: "auto",
 
   // Apps Script を「ウェブアプリ」としてデプロイしたときの URL（…/exec）
-  gasUrl: "",
+  gasUrl: "https://script.google.com/macros/s/AKfycbw3fPAFqIdlrL_iPP3puGXoS_FAXvyS50-ntYEEEItyIpKD2kulf6fOytkWyauiuZngjw/exec",
 
   // api.php の場所（index.html からの相対パス）
   phpUrl: "api.php",
